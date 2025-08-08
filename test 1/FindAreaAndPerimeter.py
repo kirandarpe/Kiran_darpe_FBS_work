@@ -1,0 +1,7 @@
+L = float(input("Enter the length of rectangle: "))
+B = float(input("Enter the breadth of rectangle: "))
+R = float(input("Enter the radius of semicircle: "))
+area = (L * B) + (0.5 * math.pi * R * R)
+perimeter = L + (2 * B) + (math.pi * R)
+print(f"Area of the figure: {area}")
+print(f"Perimeter of the figure: {perimeter}")
