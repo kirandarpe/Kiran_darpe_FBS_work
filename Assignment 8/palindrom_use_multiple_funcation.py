@@ -1,1 +1,0 @@
-# write a program to check given number is armstrong or not use multiple function
